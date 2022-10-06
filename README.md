@@ -1,6 +1,6 @@
 # thirdLab
-# 📌 LFS
-# 📌 git flow
-# 📌 Submodules
-# 📌 Tags
+- 📌 LFS
+- 📌 git flow
+- 📌 Submodules
+- 📌 Tags
  
