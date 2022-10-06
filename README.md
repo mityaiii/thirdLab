@@ -1,3 +1,6 @@
 # thirdLab
-# author: Mamchenko Dmitrij
+# 📌 LFS
+# 📌 git flow
+# 📌 Submodules
+# 📌 Tags
  
