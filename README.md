@@ -1,2 +1,3 @@
 # thirdLab
+# author: Mamchenko Dmitrij
  
